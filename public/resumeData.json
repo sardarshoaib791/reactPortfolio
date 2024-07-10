@@ -1,12 +1,12 @@
 {
   "main": {
-    "name":"Sardar Shoaib",
-    "description":"I have over two years of experience as a full-stack developer with a solid understanding of front-end and back-end technologies. I have strong knowledge of the MERN stack with vast experience in building web applications using React, mobile applications using React Native for the client side, Node.js/Express for the server side, and MongoDB for the database. I have expertise in Redux and React for building user interfaces and strong knowledge of state stores, middleware, action creators, reducers, and containers. deep understanding of JavaScript advanced concepts such as Closure, Scope Chain, async/await, and strong knowledge of object-oriented programming, design patterns, and agile scrum methodology",
+    "name":"Shoaib Hanif",
+    "description":"I have over 3.5 years of experience as a full-stack developer with a solid understanding of front-end and back-end technologies. I have strong knowledge of the MERN stack with vast experience in building web applications using React, mobile applications using React Native for the client side, Node.js/Express for the server side, and MongoDB for the database. I have expertise in Redux and React for building user interfaces and strong knowledge of state stores, middleware, action creators, reducers, and containers. deep understanding of JavaScript advanced concepts such as Closure, Scope Chain, async/await, and strong knowledge of object-oriented programming, design patterns, and agile scrum methodology",
     "image":"profile.JPG",
-    "bio":"I am a Computer Scientist who just completed BSCS degree from the Pakistan one of the best IT university Federal urdu university Islamabad in Computer Science. I am a highly skilled professional developer who loves to take on the challenges and then solve them.",
+    "bio":"I am a Computer Scientist who just completed MS degree from the Pakistan one of the best IT university COMSATS university Islamabad in Computer Science. I am a highly skilled professional developer who loves to take on the challenges and then solve them.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "Sardarshoaib910@gmail.com",
-    "phone": "+923109457915",
+    "phone": "+92 3109457915",
     "github":"https://github.com/sardarshoaib791",
     "linkedin":"https://www.linkedin.com/in/sardar-shoaib-401a10213/",
     "address":{
@@ -38,42 +38,52 @@
     "skillmessage":"My top skills in which I have developed many projects and still working to improve.",
     "education":[
       {
-        "school":"Federal urdu University islamabad Pakistan.",
+        "school":"COMSATS University islamabad Pakistan.",
         "degree":"Masters of Science in computer science (MSCS).",
-        "graduated":"January 2022"
+        "graduated":"Dec 2023"
       },
       {
         "school":"Federal urdu University islamabad Pakistan.",
-        "degree":"Bechelor of Science",
-        "graduated":"Feb 2019"
+        "degree":"Bechelor of Science in computer science (BSCS)",
+        "graduated":"Oct 2021"
            }
     ],
     "work":[
       {
-        "company":"Intellect Rising Tech",
-        "title":"MERN Stack developer.",
-        "years":"March 2022 - Present",
-        "description":"Working as a Full stack developer. I have completed one project. Currently working on an existing project."
+        "company":"12u12 technology ",
+        "title":"Full Stack Developer.",
+        "years":"Sep 2023 - Present",
+        "description":"Developed full stack web applications using technologies such as React, Nextjs, Java, and MongoDB. Assisted in the development and maintenance of mobile applications using React Native. Implemented continuous integration and continuous deployment (CI/CD) pipeline using tools such as Github Actions. Utilized agile development methodologies and tools such as Monday, Trello and Jira to efficiently manage and track progress. Utilized version control systems such as Git to manage codebase and ensure version consistency."
       },
       {
-        "company":"NESL-IT",
-        "title":"React Native Developer.",
-        "years":"April 2021 - March 2022",
-        "description":"Started as React native developer after that developed REST API's in nodejs with mongoDB database, integrate push notifcation and socket io."
+        "company":"5Tree Digital",
+        "title":"MERN Stack Developer.",
+        "years":"Jun 2021 - Sep 2023",
+        "description":"Built and maintained a fully functional web application using technologies such as React, Node.js, and MongoDB. Implemented various features such as user authentication using JWT, real-time messaging using Socket.io. Developed and maintained a REST-full API to handle data transfer between the front-end and back-end of the application. Developed and maintained MERN stack-based web applications from scratch."
+      },
+      {
+        "company":"Freelancing",
+        "title":"MERN Stack Developer.",
+        "years":"March 2020",
+        "description":"⁠work on a job search website. work with a US client. design web pages using Tailwind and bootstrap."
       }
     ],
     "skills":[
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"Typescript",
+        "level":"70%"
+      },
       {
         "name":"ReactJs",
         "level":"80%"
       },
       {
         "name":"React Native",
-        "level":"75%"
-      },
-      {
-        "name":"Typescript",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"Next JS",
@@ -142,7 +152,31 @@
         "category":"My Travel Blog for my post-university travels",
         "image":"practice.PNG",
         "url":"#"
-      }      
+      },      
+      {
+        "title":"12u12 App",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"12u12.PNG",
+        "url":"https://app-dev.12u12.com/"
+      },      
+      {
+        "title":"Tenant App",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"tenant.PNG",
+        "url":"#"
+      },      
+      {
+        "title":"Online Shoes Store",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"shoes-store.PNG",
+        "url":"#"
+      },
+      {
+        "title":"Bloging website.....",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"blogingw.PNG",
+        "url":"https://harmonious-liger-b1539f.netlify.app/"
+      }
     ]
   }
 }

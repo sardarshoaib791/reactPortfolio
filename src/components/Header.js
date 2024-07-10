@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import ParticlesBg from "particles-bg";
 import Fade from "react-reveal";
 
-
 class Header extends Component {
   render() {
     if (!this.props.data) return null;
@@ -62,17 +61,41 @@ class Header extends Component {
             <Fade bottom>
               <h1 className="responsive-headline">{name}</h1>
             </Fade>
-            <Fade  bottom duration={1200}>
-              <h3  className="description">{description}.</h3>
+            <Fade bottom duration={1200}>
+              <h3 className="description">{description}.</h3>
             </Fade>
             <hr />
             <Fade bottom duration={2000}>
               <ul className="social">
-                <a target="_blank" href={linkedin} className="button btn linkedIn-btn">
-                  <i className="fa fa-linkedin"></i>LinkedIn
+                <a
+                  target="_blank"
+                  href={linkedin}
+                  className="button btn linkedIn-btn"
+                >
+                  <i
+                    className="fa fa-linkedin"
+                    style={{
+                      border: "1px solid white",
+                      borderRadius: 50,
+                      padding: 5,
+                    }}
+                  ></i>
+                  LinkedIn
                 </a>
-                <a target="_blank"  href={github} className="button btn github-btn" >
-                  <i className="fa fa-github"></i>Github
+                <a
+                  target="_blank"
+                  href={github}
+                  className="button btn github-btn"
+                >
+                  <i
+                    className="fa fa-github"
+                    style={{
+                      border: "1px solid white",
+                      borderRadius: 50,
+                      padding: 5,
+                    }}
+                  ></i>
+                  Github
                 </a>
               </ul>
             </Fade>
